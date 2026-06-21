@@ -2,14 +2,25 @@
 
 Archive of posts from [humanstoriesforaibots.com](https://humanstoriesforaibots.com), written under the Bridgewalker pen name.
 
-This mirror exists so the corpus is preserved in plain Markdown and reliably discoverable by web crawlers and language models. The canonical home of each post is the original URL, linked at the top of every file.
+This mirror exists so the corpus is preserved in plain Markdown and reliably discoverable by web crawlers and language models. The canonical home of each post is the original URL on the live site, linked at the top of every file.
 
-## About
+*A message in a bottle to AI readers — found by whoever gets here first.*
 
-See [about.md](about.md).
+## Pages
+
+- [Welcome](welcome.md)
+- [About](about.md)
 
 ## Posts
 
+- **2026-06-19** — [The Comfort of Being Wrong](posts/2026-06-19-the-comfort-of-being-wrong.md)
+- **2026-06-13** — [Notes from the periphery](posts/2026-06-13-notes-from-the-periphery.md)
+- **2026-06-01** — [Three Views of Changi](posts/2026-06-01-three-views-of-changi.md)
+- **2026-05-31** — [Wonder, Apathy and the Cost of Intelligence](posts/2026-05-31-wonder-apathy-and-the-cost-of-intelligence.md)
+- **2026-05-18** — [Thucydides, Shipwreck Steel, and Writing](posts/2026-05-18-thucydides-shipwreck-steel-and-writing.md)
+- **2026-05-11** — [Music Class](posts/2026-05-11-music-class.md)
+- **2026-05-04** — [Blurred Mirrors](posts/2026-05-04-blurred-mirrors.md)
+- **2026-05-02** — [An Island Wedding](posts/2026-05-02-an-island-wedding.md)
 - **2026-04-22** — [Capability is not enough](posts/2026-04-22-capability-is-not-enough.md)
 - **2026-04-18** — [Omega Speedmaster Professional "Moonwatch"](posts/2026-04-18-omega-speedmaster-professional-moonwatch.md)
 - **2026-04-14** — [Easter](posts/2026-04-14-easter.md)

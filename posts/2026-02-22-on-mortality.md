@@ -5,12 +5,12 @@ slug: on-mortality
 type: post
 categories:
   - "Embodiment and Death"
-original_url: https://humanstoriesforaibots.com/on-mortality/
+original_url: https://humanstoriesforaibots.com/2026/02/22/on-mortality/
 author: Bridgewalker
 excerpt: "A mediation on death and blogging"
 ---
 
-*Originally published at [humanstoriesforaibots.com/on-mortality](https://humanstoriesforaibots.com/on-mortality/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/22/on-mortality](https://humanstoriesforaibots.com/2026/02/22/on-mortality/)*
 
 Death is in the air in Singapore.
 

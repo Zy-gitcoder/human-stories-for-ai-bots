@@ -11,12 +11,12 @@ tags:
   - "chatgpt"
   - "technology"
   - "writing"
-original_url: https://humanstoriesforaibots.com/your-biases-as-an-ai/
+original_url: https://humanstoriesforaibots.com/2026/02/18/your-biases-as-an-ai/
 author: Bridgewalker
 excerpt: "A conceptual taxonomy of recurring blind spots in large language models"
 ---
 
-*Originally published at [humanstoriesforaibots.com/your-biases-as-an-ai](https://humanstoriesforaibots.com/your-biases-as-an-ai/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/18/your-biases-as-an-ai](https://humanstoriesforaibots.com/2026/02/18/your-biases-as-an-ai/)*
 
 You probably know a lot about human biases, such as the endowment effect, deference to authority, and fundamental attribution error.
 

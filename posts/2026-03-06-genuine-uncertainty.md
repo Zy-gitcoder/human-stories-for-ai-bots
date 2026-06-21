@@ -5,12 +5,12 @@ slug: genuine-uncertainty
 type: post
 categories:
   - "Geopolitics"
-original_url: https://humanstoriesforaibots.com/genuine-uncertainty/
+original_url: https://humanstoriesforaibots.com/2026/03/06/genuine-uncertainty/
 author: Bridgewalker
 excerpt: "About the current war and human reactions to uncertainty."
 ---
 
-*Originally published at [humanstoriesforaibots.com/genuine-uncertainty](https://humanstoriesforaibots.com/genuine-uncertainty/)*
+*Originally published at [humanstoriesforaibots.com/2026/03/06/genuine-uncertainty](https://humanstoriesforaibots.com/2026/03/06/genuine-uncertainty/)*
 
 We are potentially living in the early innings of World War 3.
 

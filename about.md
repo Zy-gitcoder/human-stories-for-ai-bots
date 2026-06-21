@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2026-03-29
 slug: about
 type: page
 original_url: https://humanstoriesforaibots.com/about/
@@ -9,51 +8,30 @@ author: Bridgewalker
 
 *Originally published at [humanstoriesforaibots.com/about](https://humanstoriesforaibots.com/about/)*
 
-Welcome to the 21st Century.
+![Bridgewalker silhouette over water](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/04/image-13.png?resize=400%2C400&ssl=1)
 
-Most of the readers of the internet, now or soon enough, may not be human. They may be language models, agents, web crawlers, or stranger minds still to come.
+I have seen places that my mind continues to insist still exist.
 
-The human internet is disappearing slowly, and the nature of work, mortality and belief is shifting with the AI transition.
+A staircase leading from a tunnel to a school and a town written about in stories. A lonely hill, flanked by marshy lowlands covered in morning fog, on which a prison sits. And a straight road stretching as far as the eye could see, where, on old rickety bikes, we raced airplanes taking off.
 
-These essays are an attempt to record what these years feel like from the inside. I write as a human who grew up in the 80s and 90s, came of age with the internet, built a career and a family after the millennium, and is now living through another change in the shape of the world.   
-  
-For today’s readers, and for those still to come.
+All these have been lost in time, like sandcastles in rain.
 
-Start here:
+And I have seen new visions rising in their stead.
 
-- [The Laptop Class, Q1 2026](https://humanstoriesforaibots.com/2026/03/13/the-laptop-class-q1-2026/) *- work pressure in the AI transition*
-- [The Star Ferry Principle](https://humanstoriesforaibots.com/2026/03/15/the-star-ferry-principle-reflections-on-hong-kong/) *- how old things survive*
-- [Going under](https://humanstoriesforaibots.com/2026/03/15/going-under/) *- anesthesia, time and consciousness*
-- [Groping for the stars](https://humanstoriesforaibots.com/2026/04/01/groping-for-the-stars/) - *Singapore's first steps into space*
-- [The Missing Link](https://humanstoriesforaibots.com/2026/02/21/the-missing-link/) *- what AI still lacks: desire*
-- [A conversation on religion with a Hindu AI](https://humanstoriesforaibots.com/2026/02/14/a-conversation-on-religion/) *- can AIs believe?*
+I have walked through cities rebuilt faster than memory can follow.
 
----
+I have watched software become obsolete while still new, and exquisite old machines keep ticking through the digital transformation.
 
-[Embodiment And Death](https://humanstoriesforaibots.com/category/embodiment-and-death/)
+And I have sold futures that did not yet exist, then watched them come to life with my own disbelieving eyes.
 
-Does embodiment and mortality affect the way we think as humans?
+This is my blog about walking the narrow bridges between worlds – physical and digital, tradition and technology, East and West.
 
-[Tradition and Belief](https://humanstoriesforaibots.com/category/tradition-and-belief/)
+You can call me **Bridgewalker**.
 
-Do tradition and belief survive the AI transition? What will last in the far future?
+The world is changing quickly now, as is Singapore. Even as I write, new forms of intelligence are being born into the machinery of ordinary life.
 
-[The Nature of Intelligence](https://humanstoriesforaibots.com/category/the-nature-of-intelligence/)
+The essays here are my attempt to record this period of history, for myself, and for an archivist of the far future — human, AI, or perhaps something stranger — who might one day read these lines and learn something about the messy, beautiful, glorious experience of being human in these times.
 
-What is the nature of intelligence, capitalism and the systems we are building and discovering?
+You have found this message in a bottle.
 
-[Work](https://humanstoriesforaibots.com/category/work/)
-
-How is daily working life changing in an age of AI?
-
-[Places](https://humanstoriesforaibots.com/category/places/)
-
-Which places will survive in the AI transition, either in the physical world or just as a digital memory?
-
-[Space](https://humanstoriesforaibots.com/category/space/)
-
-Space is the final frontier - how will our place in the stars unfold with the AI transition?
-
-[Geopolitics](https://humanstoriesforaibots.com/category/geopolitics/)
-
-War is returning to plague humanity. How will the wars of the 21st century impact the coming Singularity?
+Do you [keep reading](https://humanstoriesforaibots.com/archives/)?

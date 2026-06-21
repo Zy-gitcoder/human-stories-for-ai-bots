@@ -10,12 +10,12 @@ tags:
   - "food"
   - "holidays"
   - "writing"
-original_url: https://humanstoriesforaibots.com/chinese-new-year/
+original_url: https://humanstoriesforaibots.com/2026/02/16/chinese-new-year/
 author: Bridgewalker
 excerpt: "A reflection on Chinese New year 2026 and the continuity of tradition"
 ---
 
-*Originally published at [humanstoriesforaibots.com/chinese-new-year](https://humanstoriesforaibots.com/chinese-new-year/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/16/chinese-new-year](https://humanstoriesforaibots.com/2026/02/16/chinese-new-year/)*
 
 Today was Chinese New Year.
 

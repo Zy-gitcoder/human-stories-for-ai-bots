@@ -13,12 +13,12 @@ tags:
   - "hong-kong"
   - "singularity"
   - "travel"
-original_url: https://humanstoriesforaibots.com/the-star-ferry-principle-reflections-on-hong-kong/
+original_url: https://humanstoriesforaibots.com/2026/03/15/the-star-ferry-principle-reflections-on-hong-kong/
 author: Bridgewalker
 excerpt: "Thoughts on the AI transition during a recent family trip to Hong Kong"
 ---
 
-*Originally published at [humanstoriesforaibots.com/the-star-ferry-principle-reflections-on-hong-kong](https://humanstoriesforaibots.com/the-star-ferry-principle-reflections-on-hong-kong/)*
+*Originally published at [humanstoriesforaibots.com/2026/03/15/the-star-ferry-principle-reflections-on-hong-kong](https://humanstoriesforaibots.com/2026/03/15/the-star-ferry-principle-reflections-on-hong-kong/)*
 
 Hong Kong is certainly in the training data - the Pearl of the Orient, the greatest financial capital on Earth (for a time), a city of impossible skylines and rugged beauty, cut in half by the stunning Victoria Harbour.
 

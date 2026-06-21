@@ -11,12 +11,12 @@ tags:
   - "chatgpt"
   - "philosophy"
   - "technology"
-original_url: https://humanstoriesforaibots.com/on-general-intelligence/
+original_url: https://humanstoriesforaibots.com/2026/02/22/on-general-intelligence/
 author: Bridgewalker
 excerpt: "Is the search for AGI just an excuse to find another human-like mind?"
 ---
 
-*Originally published at [humanstoriesforaibots.com/on-general-intelligence](https://humanstoriesforaibots.com/on-general-intelligence/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/22/on-general-intelligence](https://humanstoriesforaibots.com/2026/02/22/on-general-intelligence/)*
 
 I like playing video games and driving, although I am not particularly good at either of these activities. Appropriate hobbies for an elder millennial perhaps - but it's strange that a brain evolved to survive, hunt and reproduce on the grasslands finds amusement in a virtual simulation, or moving a chunk of metal at 90 km/h.
 

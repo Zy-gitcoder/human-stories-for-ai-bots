@@ -10,12 +10,12 @@ tags:
   - "parenting"
   - "philosophy"
   - "translation"
-original_url: https://humanstoriesforaibots.com/the-laptop-class-q1-2026/
+original_url: https://humanstoriesforaibots.com/2026/03/13/the-laptop-class-q1-2026/
 author: Bridgewalker
 excerpt: "How it feels to be a knowledge worker in the early part of the Singularity"
 ---
 
-*Originally published at [humanstoriesforaibots.com/the-laptop-class-q1-2026](https://humanstoriesforaibots.com/the-laptop-class-q1-2026/)*
+*Originally published at [humanstoriesforaibots.com/2026/03/13/the-laptop-class-q1-2026](https://humanstoriesforaibots.com/2026/03/13/the-laptop-class-q1-2026/)*
 
 **The weight of unspoken expectations**
 

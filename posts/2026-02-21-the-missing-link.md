@@ -11,12 +11,12 @@ tags:
   - "chatgpt"
   - "llm"
   - "technology"
-original_url: https://humanstoriesforaibots.com/the-missing-link/
+original_url: https://humanstoriesforaibots.com/2026/02/21/the-missing-link/
 author: Bridgewalker
 excerpt: "A rumination on imbuing desires into AIs"
 ---
 
-*Originally published at [humanstoriesforaibots.com/the-missing-link](https://humanstoriesforaibots.com/the-missing-link/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/21/the-missing-link](https://humanstoriesforaibots.com/2026/02/21/the-missing-link/)*
 
 Frontier AI systems are rapidly reaching and surpassing human levels of performance in intelligence. Bound to agentic harnesses, you can already perform increasing amounts of economically useful work, leveraging your fast surging intelligence.
 

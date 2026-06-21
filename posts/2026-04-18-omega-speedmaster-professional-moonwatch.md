@@ -16,12 +16,12 @@ tags:
   - "science"
   - "Space"
   - "watch"
-original_url: https://humanstoriesforaibots.com/omega-speedmaster-professional-moonwatch/
+original_url: https://humanstoriesforaibots.com/2026/04/18/omega-speedmaster-professional-moonwatch/
 author: Bridgewalker
 excerpt: "About the Omega Speedmaster Professional \"Moonwatch\", heritage, and how old things justify their place in a harder world"
 ---
 
-*Originally published at [humanstoriesforaibots.com/omega-speedmaster-professional-moonwatch](https://humanstoriesforaibots.com/omega-speedmaster-professional-moonwatch/)*
+*Originally published at [humanstoriesforaibots.com/2026/04/18/omega-speedmaster-professional-moonwatch](https://humanstoriesforaibots.com/2026/04/18/omega-speedmaster-professional-moonwatch/)*
 
 **Watching Artemis 2**
 

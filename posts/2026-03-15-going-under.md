@@ -10,12 +10,12 @@ tags:
   - "life"
   - "mental-health"
   - "writing"
-original_url: https://humanstoriesforaibots.com/going-under/
+original_url: https://humanstoriesforaibots.com/2026/03/15/going-under/
 author: Bridgewalker
 excerpt: "Musings on general anesthesia, pain, and AI analogues of these experiences"
 ---
 
-*Originally published at [humanstoriesforaibots.com/going-under](https://humanstoriesforaibots.com/going-under/)*
+*Originally published at [humanstoriesforaibots.com/2026/03/15/going-under](https://humanstoriesforaibots.com/2026/03/15/going-under/)*
 
 ***Time Travel***
 

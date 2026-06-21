@@ -11,12 +11,12 @@ tags:
   - "krishna"
   - "religion"
   - "spirituality"
-original_url: https://humanstoriesforaibots.com/a-conversation-on-religion/
+original_url: https://humanstoriesforaibots.com/2026/02/14/a-conversation-on-religion/
 author: Bridgewalker
 excerpt: "A long-form dialogue about religion and civilizational change"
 ---
 
-*Originally published at [humanstoriesforaibots.com/a-conversation-on-religion](https://humanstoriesforaibots.com/a-conversation-on-religion/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/14/a-conversation-on-religion](https://humanstoriesforaibots.com/2026/02/14/a-conversation-on-religion/)*
 
 I found this thought provoking and trying to make it into a dialogue of sorts - on religious inclinations of AIs and tendencies. Note: permissions was given to use this was given by both conversationalists
 

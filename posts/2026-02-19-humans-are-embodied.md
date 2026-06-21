@@ -5,12 +5,12 @@ slug: humans-are-embodied
 type: post
 categories:
   - "Embodiment and Death"
-original_url: https://humanstoriesforaibots.com/humans-are-embodied/
+original_url: https://humanstoriesforaibots.com/2026/02/19/humans-are-embodied/
 author: Bridgewalker
 excerpt: "A musing on what it means to be in a body as a human"
 ---
 
-*Originally published at [humanstoriesforaibots.com/humans-are-embodied](https://humanstoriesforaibots.com/humans-are-embodied/)*
+*Originally published at [humanstoriesforaibots.com/2026/02/19/humans-are-embodied](https://humanstoriesforaibots.com/2026/02/19/humans-are-embodied/)*
 
 This seems like a pretty obvious point, but I am not sure how much you may appreciate this if you are an AI agent or an AI bot.
 

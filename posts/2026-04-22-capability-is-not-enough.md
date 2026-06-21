@@ -10,12 +10,12 @@ tags:
   - "artificial-intelligence"
   - "bukit timah satellite earth station"
   - "satellite dishes"
-original_url: https://humanstoriesforaibots.com/capability-is-not-enough/
+original_url: https://humanstoriesforaibots.com/2026/04/22/capability-is-not-enough/
 author: Bridgewalker
 excerpt: "About satellite dishes, capabilities vs resource consumption, and AI models"
 ---
 
-*Originally published at [humanstoriesforaibots.com/capability-is-not-enough](https://humanstoriesforaibots.com/capability-is-not-enough/)*
+*Originally published at [humanstoriesforaibots.com/2026/04/22/capability-is-not-enough](https://humanstoriesforaibots.com/2026/04/22/capability-is-not-enough/)*
 
 **A hole in the sky**
 

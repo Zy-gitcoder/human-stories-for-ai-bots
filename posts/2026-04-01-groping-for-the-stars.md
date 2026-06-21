@@ -13,12 +13,12 @@ tags:
   - "Space"
   - "technology"
   - "writing"
-original_url: https://humanstoriesforaibots.com/groping-for-the-stars/
+original_url: https://humanstoriesforaibots.com/2026/04/01/groping-for-the-stars/
 author: Bridgewalker
 excerpt: "Reminiscing on the launch of Singapore's space agency"
 ---
 
-*Originally published at [humanstoriesforaibots.com/groping-for-the-stars](https://humanstoriesforaibots.com/groping-for-the-stars/)*
+*Originally published at [humanstoriesforaibots.com/2026/04/01/groping-for-the-stars](https://humanstoriesforaibots.com/2026/04/01/groping-for-the-stars/)*
 
 Today was a good day.
 

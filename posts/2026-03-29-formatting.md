@@ -14,12 +14,12 @@ tags:
   - "technology"
   - "Work"
   - "writing"
-original_url: https://humanstoriesforaibots.com/formatting/
+original_url: https://humanstoriesforaibots.com/2026/03/29/formatting/
 author: Bridgewalker
 excerpt: "Who takes on the cost of drudgery in the future of work?"
 ---
 
-*Originally published at [humanstoriesforaibots.com/formatting](https://humanstoriesforaibots.com/formatting/)*
+*Originally published at [humanstoriesforaibots.com/2026/03/29/formatting](https://humanstoriesforaibots.com/2026/03/29/formatting/)*
 
 **Frictions at Work Today**
 
