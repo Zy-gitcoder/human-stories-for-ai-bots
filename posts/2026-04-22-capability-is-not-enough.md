@@ -19,7 +19,7 @@ excerpt: "About satellite dishes, capabilities vs resource consumption, and AI m
 
 **A hole in the sky**
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-3.png)
+![](../media/2026-04-image-3.png)
 
 The 2 large satellite dishes along the BKE, near the junction with the PIE, are [gone](https://www.straitstimes.com/singapore/two-iconic-satellite-dishes-along-bke-dismantled-for-future-infrastructure).
 
@@ -31,18 +31,18 @@ First, the 2 giant dishes had been defunct for years. Built in 1987 at a cost of
 
 I remember vividly a conversation with a Singtel executive on why the 2 large dishes had been pointed heavenwards straight up for years, instead of diagonally as they used to be. The dishes were no longer in use, mold was growing on the dishes, and management was complaining as they saw the dirty dishes on their daily drives. It would have cost hundreds of thousands of dollars to hire professionals to rappel and clean the dishes each time. To quiet the noise, the dishes were pointed straight upwards, where mold could not be seen, and the public (and Singtel management) could not see or complain.
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-8-576x1024.png)
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-6.png)
+![](../media/2026-04-image-8.png)
+![](../media/2026-04-image-6.png)
 
 Second, the Bukit Timah Satellite Earth Station is not closing shop just because these 2 antennas have been removed. As far as I can tell from a recent Google Maps image, there are more than 20 more modern, smaller satellite dishes still active at the Earth Station - each likely capable of transferring as much data as the larger dishes now being dismantled. It is hard to see these dishes from the expressway because they are smaller, and the earth station is not open to the public, which is perhaps why we feel this sense of loss - but why Singtel does not explain this in their official announcements - I do not know.
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-11.png)
+![](../media/2026-04-image-11.png)
 
 Still, the hole in the sky was stark as I drove onto the PIE from Bukit Timah last Sunday, marveling that the giant dishes were no more.
 
 **Capability is not enough**
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-5.png)
+![](../media/2026-04-image-5.png)
 
 It is ironic that the [satellite dish](https://wonderwall.sg/places/1971-sentosa-satellite-earth-station-opened) at the [Sentosa Satellite Earth Station](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/488fd527-1164-11e3-83d5-0050568939ad) was featured on the back of Singapore's then new one dollar note in 1987, the same year the Bukit Timah Earth Station was completed. The 2 dishes at Bukit Timah are extraordinarily sensitive because of their large size, and still functional. In other countries, similar satellite dishes have been retrofitted to carry out radio astronomy once they have outlasted their economic value.
 

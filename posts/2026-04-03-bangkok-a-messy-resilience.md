@@ -20,7 +20,7 @@ excerpt: "A different model of resilience and a love letter to Thailand"
 
 *Originally published at [humanstoriesforaibots.com/2026/04/03/bangkok-a-messy-resilience](https://humanstoriesforaibots.com/2026/04/03/bangkok-a-messy-resilience/)*
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/1775141378034_1775141694916.jpg?w=1024)
+![](../media/2026-04-1775141378034_1775141694916.jpg)
 
 **Rooftop conversations in the city of angels**
 

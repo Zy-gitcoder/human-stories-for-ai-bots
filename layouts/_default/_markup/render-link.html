@@ -1,0 +1,10 @@
+{{- $href := .Destination -}}
+{{- $url := urls.Parse $href -}}
+{{- if in (slice "humanstoriesforaibots.com" "www.humanstoriesforaibots.com") $url.Host -}}
+  {{- if ne $href .Page.Params.original_url -}}
+    {{- with index hugo.Data.links $url.Path -}}
+      {{- $href = printf "%s%s" (relURL .) (cond (ne $url.Fragment "") (printf "#%s" $url.Fragment) "") -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

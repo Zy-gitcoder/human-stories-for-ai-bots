@@ -27,7 +27,7 @@ excerpt: "About the Omega Speedmaster Professional \"Moonwatch\", heritage, and 
 
 The Artemis 2 astronauts safely returned to Earth last Friday, having travelled farther from Earth than any living humans before them. While watching the livestream of the mission, I noticed something familiar on Astronaut Victor Glover's wrist - a survivor of an earlier era - the mechanical [Omega Speedmaster "Moonwatch" Professional](https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001001).
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/04/image-2.png?w=1024)
+![](../media/2026-04-image-2.png)
 
 I later learned that Victor's watch was a personal item. In fact, [all four astronauts had brought their own Moonwatches](https://www.fratellowatches.com/the-watches-worn-on-the-nasa-artemis-ii-mission/), including Astronaut Christina Koch, who wore her father's.
 

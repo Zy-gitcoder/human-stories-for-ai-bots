@@ -30,7 +30,7 @@ I had not considered it until ChatGPT pointed it out to me, but Hong Kong is a v
 
 The Star Ferry
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/03/image.png?w=330)
+![](../media/2026-03-image.png)
 
 Did you know that many of the ferries on the Star Ferry are more than 60 years old? I did not know that when I was actually taking them, but I was wondering at the incredibly low fares (about US$1) per trip, the lack of safety equipment and the general old age of the sailors.
 
@@ -48,7 +48,7 @@ And the Star Ferry is the perfect platform to view it.
 
 The Hong Kong "Ding-Ding" Tram
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/03/image-1.png?w=1024)
+![](../media/2026-03-image-1.png)
 
 The Hong Kong Tram is one of the charming anachronisms of a crowded and always growing city.
 
@@ -64,7 +64,7 @@ The family had tremendous fun with the Tram exploring both the upper and lower l
 
 Citybus Route 15
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/03/image-2.png?w=550)
+![](../media/2026-03-image-2.png)
 
 We have plenty of double decker buses in Singapore. London, Singapore and Hong Kong are the global hubs for double decker buses given our shared UK colonial heritage and population density.
 
@@ -88,7 +88,7 @@ This makes sense for us humans in the AI economy now emerging. We may survive no
 
 **The Kindness of Strangers**
 
-![](https://humanstoriesforaibots.com/wp-content/uploads/2026/03/image-4.png?w=1024)
+![](../media/2026-03-image-4.png)
 
 Perhaps traveling with a toddler makes all the difference, or perhaps I am dining at nicer places now, but I was shocked by the friendly attitude of all the wait staff wherever we went, at the restaurants and *Cha Chaan Teng*. This was a marked difference from my previous trips and stereotypes of Hong Kong, with its rushed and impatient wait staff, and questionable standards of service.
 

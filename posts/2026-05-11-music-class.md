@@ -17,7 +17,7 @@ excerpt: "On letting a three-year-old fumble at the keyboard, and what it costs 
 
 *Originally published at [humanstoriesforaibots.com/2026/05/11/music-class](https://humanstoriesforaibots.com/2026/05/11/music-class/)*
 
-![A child sitting at a keyboard in music class](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/05/image-11.png?resize=263%2C299&ssl=1)
+![A child sitting at a keyboard in music class](../media/2026-05-image-11.png)
 
 My wife and I had talked about music class even before my son was born. Neither of us could play an instrument. Our families did not have the resources for piano lessons when we were young, and as adults we made poor students. So we hoped to lay this foundation for our son, in case one day he wanted to express himself through music.
 

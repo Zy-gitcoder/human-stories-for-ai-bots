@@ -18,7 +18,7 @@ excerpt: "A Labour Day wedding on Sentosa, with tankers, fireworks, and a boy th
 
 *Originally published at [humanstoriesforaibots.com/2026/05/02/an-island-wedding](https://humanstoriesforaibots.com/2026/05/02/an-island-wedding/)*
 
-![A Sentosa beachfront, with ships in the distance](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/05/image-1.png?resize=640%2C395&ssl=1)
+![A Sentosa beachfront, with ships in the distance](../media/2026-05-image-1.png)
 
 **A Sea View**
 
@@ -68,7 +68,7 @@ After the solemnization and the exchange of vows, we returned to the dining area
 
 The three year old was my son. A few days earlier I had told him buses would soon drive themselves. Hours later, he pointed to his toy bus fleet — all driverless, no figures in the driver seats — and proudly said that he still wanted to be a bus driver.
 
-![A toy bus with no driver figure](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/05/image-4.png?resize=275%2C183&ssl=1)
+![A toy bus with no driver figure](../media/2026-05-image-4.png)
 
 **The Lights Above**
 
@@ -76,7 +76,7 @@ Later in the night, we moved out to the open space again, for the traditional *y
 
 It was beautiful. It reminded me of Squall and Rinoa's first dance in Final Fantasy VIII, with the fireworks in the background as Eyes on Me played.
 
-![Squall and Rinoa from Final Fantasy VIII, dancing under fireworks](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/05/image-2.png?resize=299%2C168&ssl=1)
+![Squall and Rinoa from Final Fantasy VIII, dancing under fireworks](../media/2026-05-image-2.png)
 
 The three traditional toasts were to a blissful marriage to the couple, eternal love, and the swift production of children. We cheered heartily to all three.
 

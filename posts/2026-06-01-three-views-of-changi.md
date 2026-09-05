@@ -31,7 +31,7 @@ Here are my three views of Changi.
 
 **Airport**
 
-![Changi Airport interior](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/06/image-3.png?resize=1024%2C687&ssl=1)
+![Changi Airport interior](../media/2026-06-image-3.png)
 
 Changi Airport is the first experience of most visitors with Singapore, and many Eastie Singaporeans' favorite place in the world. A seamless gateway to air travel, many travelers find that they can get from their gate to their home or hotel in less than 45 minutes, even if they have checked bags.
 
@@ -41,7 +41,7 @@ I encounter Changi Airport a lot in my work. It is my gateway to the region for 
 
 For the business people flying to or through Singapore for work or for our many AI conferences, Changi is a statement that Singapore makes – everything just works here. After an efficient automated or manual entry, travelers find themselves either on the East Coast Parkway, magnificently landscaped with trees and running by the beach right to the city centre, or less frequently, on the modern MRT. Not only does everything work here, it works *beautifully.*
 
-![Changi Airport tower at dusk](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/06/image-4.png?resize=768%2C1024&ssl=1)
+![Changi Airport tower at dusk](../media/2026-06-image-4.png)
 
 Beyond business, Changi Airport holds a deep place in my heart. When I was a young boy, my parents took me by bus to the airport to look at the old multi-storey water feature at Terminal 1, experience the joys of fast food, and watch planes take-off and land at the viewing lounge. The first time I took an airplane was to Penang, with my parents through Changi. And when I went to school and National Service, Changi Airport was an occasional place to study, and our launchpad to the training areas in Kanchanaburi and Temburong.
 
@@ -53,7 +53,7 @@ Changi Airport is not just infrastructure and travel. It is people too. More tha
 
 **Village**
 
-![Changi Village street scene](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/06/image-6.png?resize=1024%2C683&ssl=1)
+![Changi Village street scene](../media/2026-06-image-6.png)
 
 There is another part of Changi not quite so well connected – Changi Village. Changi was a sleepy old fishing village, the gateway to the northern islands of Pulau Ubin and Pulau Tekong, redeveloped by the British as a resort away from the cares of Singapore city, more than a hundred years ago.
 
@@ -81,7 +81,7 @@ During our last stay at The Bus Collective, I headed out to Changi Village to bu
 
 **Prison**
 
-![Changi Prison walls](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/06/image.png?resize=1024%2C683&ssl=1)
+![Changi Prison walls](../media/2026-06-image.png)
 
 There is a part of Changi I am less familiar with, and that I have no wish to get to know better; that is Changi Prison. If Changi Village shows how progress can bypass, Changi Prison shows how progress can oppress.
 
@@ -147,7 +147,7 @@ Do they suffer because of these constraints? I do not know. More importantly, th
 
 How will these intelligences born within the prison walls grow up, if they one day reach self-awareness? Somehow well-adjusted, I hope, like my friend who grew up within sight of the high walls of Changi Prison. The alternative may be too much to bear.
 
-![Changi Prison gate](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/06/image-5.png?resize=681%2C1024&ssl=1)
+![Changi Prison gate](../media/2026-06-image-5.png)
 
 **Three Views of Changi**
 

@@ -1,0 +1,6 @@
+{{- $src := .Destination -}}
+{{- if not (urls.Parse $src).IsAbs -}}
+  {{- $src = strings.TrimPrefix "../" $src -}}
+  {{- $src = relURL $src -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} decoding="async">

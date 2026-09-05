@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+  <meta name="description" content="{{ .Params.excerpt | default site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "style.css" | relURL }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "feed.xml" | absURL }}">
+  <meta name="color-scheme" content="light dark">
+</head>
+<body id="top">
+  <a class="skip" href="#main">Skip to writing</a>
+  <header class="masthead">
+    <a class="site-title" href="{{ site.Home.RelPermalink }}">Human Stories<br>for AI Bots<span class="dot">.</span></a>
+    <p class="tagline">A message in a bottle written for AI readers —<br>found by whoever gets here first.</p>
+    <nav aria-label="Main navigation">
+      <a href="{{ site.Home.RelPermalink }}">Posts</a>
+      <a href="{{ "archives/" | relURL }}">Archive</a>
+      <a href="{{ "welcome/" | relURL }}">Welcome</a>
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a href="{{ "feed.xml" | relURL }}">RSS</a>
+    </nav>
+  </header>
+  <main id="main">{{ block "main" . }}{{ end }}</main>
+  <footer class="site-footer">
+    <p>Written by Bridgewalker. <a href="{{ site.Params.repository }}">Markdown archive on GitHub</a> · <a href="{{ "archive.zip" | relURL }}">Download an offline edition</a>.</p>
+    <p>This edition carries its own text and images. <a href="https://humanstoriesforaibots.com/">Original blog</a> · <a href="#top">Back to top ↑</a></p>
+  </footer>
+</body>
+</html>

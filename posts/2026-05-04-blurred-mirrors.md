@@ -17,7 +17,7 @@ excerpt: "A blind-test essay experiment with six LLMs reveals they cannot identi
 
 *Originally published at [humanstoriesforaibots.com/2026/05/04/blurred-mirrors](https://humanstoriesforaibots.com/2026/05/04/blurred-mirrors/)*
 
-![A blurred mirror reflecting indistinct figures](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/05/file_00000000f2bc7208844148b71bded596-1.png?resize=1024%2C683&ssl=1)
+![A blurred mirror reflecting indistinct figures](../media/2026-05-file_00000000f2bc7208844148b71bded596-1.png)
 
 "Hey, you did worse than chance in identifying who wrote what, and you got yourself wrong! You mean you can't really identify what you wrote in clean context, vs. the other models?"
 
