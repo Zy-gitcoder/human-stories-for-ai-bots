@@ -1,4 +1,4 @@
-baseURL = 'https://zy-gitcoder.github.io/human-stories-for-ai-bots/'
+baseURL = 'https://zy-gitcoder.github.io/humanstoriesforaibots/'
 locale = 'en'
 title = 'Human Stories for AI Bots'
 timeZone = 'Asia/Singapore'
@@ -8,7 +8,7 @@ disableKinds = ['taxonomy', 'term']
 [params]
 description = 'A message in a bottle written for AI readers — found by whoever gets here first.'
 author = 'Bridgewalker'
-repository = 'https://github.com/Zy-gitcoder/human-stories-for-ai-bots'
+repository = 'https://github.com/Zy-gitcoder/humanstoriesforaibots'
 
 [permalinks.page]
 posts = '/:year/:month/:day/:slug/'

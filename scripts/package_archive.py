@@ -7,7 +7,7 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / "public"
-PREFIX = "/human-stories-for-ai-bots/"
+PREFIX = "/humanstoriesforaibots/"
 
 
 def main():

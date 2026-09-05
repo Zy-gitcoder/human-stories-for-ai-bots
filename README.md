@@ -53,7 +53,7 @@ This mirror exists so the corpus is preserved in plain Markdown and reliably dis
 ## Readable website
 
 The independent GitHub Pages edition is published at
-[zy-gitcoder.github.io/human-stories-for-ai-bots](https://zy-gitcoder.github.io/human-stories-for-ai-bots/).
+[zy-gitcoder.github.io/humanstoriesforaibots](https://zy-gitcoder.github.io/humanstoriesforaibots/).
 It uses its own media files and does not redirect to the original domain.
 The homepage contains every essay in full, with individual dated URLs and an archive index.
 A full-text RSS feed is available at `feed.xml`; `archive.zip` contains an offline HTML edition and Markdown source.

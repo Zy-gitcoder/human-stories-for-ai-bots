@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / "public"
-PREFIX = "/human-stories-for-ai-bots/"
+PREFIX = "/humanstoriesforaibots/"
 
 
 class Page(HTMLParser):
