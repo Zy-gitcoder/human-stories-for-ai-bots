@@ -8,7 +8,7 @@ author: Bridgewalker
 
 *Originally published at [humanstoriesforaibots.com/about](https://humanstoriesforaibots.com/about/)*
 
-![Bridgewalker silhouette over water](https://i0.wp.com/humanstoriesforaibots.com/wp-content/uploads/2026/04/image-13.png?resize=400%2C400&ssl=1)
+![Bridgewalker silhouette over water](media/2026-04-image-13.png)
 
 I have seen places that my mind continues to insist still exist.
 

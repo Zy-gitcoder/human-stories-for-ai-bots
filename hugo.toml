@@ -1,0 +1,52 @@
+baseURL = 'https://zy-gitcoder.github.io/human-stories-for-ai-bots/'
+locale = 'en'
+title = 'Human Stories for AI Bots'
+timeZone = 'Asia/Singapore'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
+
+[params]
+description = 'A message in a bottle written for AI readers — found by whoever gets here first.'
+author = 'Bridgewalker'
+repository = 'https://github.com/Zy-gitcoder/human-stories-for-ai-bots'
+
+[permalinks.page]
+posts = '/:year/:month/:day/:slug/'
+
+[module]
+[[module.mounts]]
+source = 'posts'
+target = 'content/posts'
+[[module.mounts]]
+source = 'about.md'
+target = 'content/about.md'
+[[module.mounts]]
+source = 'welcome.md'
+target = 'content/welcome.md'
+[[module.mounts]]
+source = 'content'
+target = 'content'
+[[module.mounts]]
+source = 'media'
+target = 'static/media'
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[outputs]
+home = ['HTML', 'RSS']
+
+[outputFormats.RSS]
+baseName = 'feed'
+
+[markup.goldmark.renderer]
+unsafe = false
+
+[markup.goldmark.extensions]
+typographer = false
+
+[markup.goldmark.renderHooks.link]
+useEmbedded = 'never'
+
+[markup.goldmark.renderHooks.image]
+useEmbedded = 'never'

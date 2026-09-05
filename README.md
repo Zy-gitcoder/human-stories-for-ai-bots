@@ -49,3 +49,39 @@ This mirror exists so the corpus is preserved in plain Markdown and reliably dis
 - **2026-02-18** — [Your Biases as an AI](posts/2026-02-18-your-biases-as-an-ai.md)
 - **2026-02-16** — [Chinese New Year](posts/2026-02-16-chinese-new-year.md)
 - **2026-02-14** — [A conversation on religion with a Hindu AI](posts/2026-02-14-a-conversation-on-religion.md)
+
+## Readable website
+
+The independent GitHub Pages edition is published at
+[zy-gitcoder.github.io/human-stories-for-ai-bots](https://zy-gitcoder.github.io/human-stories-for-ai-bots/).
+It uses its own media files and does not redirect to the original domain.
+The homepage contains every essay in full, with individual dated URLs and an archive index.
+A full-text RSS feed is available at `feed.xml`; `archive.zip` contains an offline HTML edition and Markdown source.
+
+## Publishing
+
+The existing `posts/`, `about.md`, and `welcome.md` files are the source of the website.
+Edit Markdown and add any new images under `media/`, then push to `main`.
+GitHub Actions builds, checks, packages, and publishes the site automatically.
+Repository Settings → Pages must use **GitHub Actions** as its source. Leave the custom domain empty.
+
+To preview locally, install Hugo 0.165.0 and run `hugo server`.
+To build a release, run `hugo --environment production`, `python scripts/check_site.py`,
+and `python scripts/package_archive.py`. The `public/` directory is the complete deployable website.
+The last published HTML does not require Hugo or Python to remain readable.
+
+## Preservation and media
+
+`media/manifest.json` maps the 28 supplied WordPress attachments to local archive files.
+Images larger than 1600 pixels on either side have a proportionally resized JPEG reading copy;
+smaller images retain their original files. The downloaded originals remain in the owner's separate archive.
+WordPress media URLs have been replaced in the Markdown so GitHub itself can display the images.
+Internal article links are resolved to this edition when HTML is built; original publication credits remain.
+YouTube references remain external links and the videos are not included in the offline edition.
+
+Download and keep periodic copies of `archive.zip` independently of GitHub.
+For first setup, verify the Pages URL, RSS feed, and download after deployment.
+To move hosts, copy the generated website and adjust the base URL when rebuilding.
+The source WordPress XML, drafts, private comment metadata, and unrelated workspace files are not published here.
+
+Comments and reactions are not enabled in this edition. These can be added separately without making the essays depend on them.
