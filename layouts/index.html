@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="reading-note"><span>{{ len (where site.RegularPages "Section" "posts") }} essays</span><a href="{{ "archives/" | relURL }}">Browse the archive →</a></div>
+{{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+<article class="essay" id="{{ .Slug }}">
+  <header class="essay-header">
+    <p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>{{ with .Params.categories }} <span aria-hidden="true"> / </span> {{ delimit . " · " }}{{ end }}</p>
+    <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  </header>
+  <div class="prose">{{ .Content }}</div>
+  <p class="essay-end"><a href="{{ .RelPermalink }}">Individual post →</a><a href="#top">Back to top ↑</a></p>
+</article>
+{{ end }}
+{{ end }}
